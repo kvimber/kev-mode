@@ -3,7 +3,7 @@ This is a simple Starbound mod in order to get you past the hump of having to co
 
 ### Latest Stuff!
 
-The current version of the starbound mod is 0.1.0.  You can get that directly from [this link](get/v0.1.0.zip), or find it at the [downloads page](downloads).
+The current version of the starbound mod is 0.1.0.  You can get that directly from [this link](get/v0.1.0.zip), or find it at the [downloads page](downloads) under the tags tab.
 
 Refer to [semver.org](http://semver.org/) for the versioning scheme rules.
 

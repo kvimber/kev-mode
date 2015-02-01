@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "ceruliumcompound",
+    "count" : 100
+  },
+  "groups" : [ "scififurnace", "all" ]
+}

@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "torch", "count" : 1 }
+  ],
+  "output" : { "item" : "mininglantern", "count" : 1 },
+  "groups" : [ "ironcraftingtable", "tools", "all" ]
+}

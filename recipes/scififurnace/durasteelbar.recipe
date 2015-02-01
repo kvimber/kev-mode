@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "titaniumbar", "count" : 1 },
+    { "item" : "uraniumrod", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "durasteelbar",
+    "count" : 100
+  },
+  "groups" : [ "scififurnace", "all" ]
+}

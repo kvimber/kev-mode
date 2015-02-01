@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 15 }
+  ],
+  "output" : { "item" : "lanternstickback", "count" : 1 },
+  "groups" : [ "ironcraftingtable", "armors", "all" ]
+}

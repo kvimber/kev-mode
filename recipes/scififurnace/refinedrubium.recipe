@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "refinedrubium",
+    "count" : 100
+  },
+  "groups" : [ "scififurnace", "all" ]
+}

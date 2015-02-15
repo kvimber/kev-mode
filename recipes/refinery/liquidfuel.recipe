@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "liquidwater", "count" : 1 }
+  ],
+  "output" : { "item" : "liquidfuel", "count" : 100 },
+  "groups" : [ "refinery" ]
+}

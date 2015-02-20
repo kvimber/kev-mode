@@ -5,14 +5,14 @@ This is a simple Starbound mod in order to get you past the hump of having to co
 
 ### Latest Stuff!
 
-The current version of the starbound mod is 0.1.0.  You can get that directly from [this link](releases/latest), or find it at the [releases page](releases).
+The current version of the starbound mod is 0.1.0.  You can get that directly from [this link](/releases/latest), or find it at the [releases page](/releases).
 
 Refer to [semver.org](http://semver.org/) for the versioning scheme rules.
 
 
 ### Setup
 
-* download the latest version zip from the Latest Stuff section above.  It should be named `kvimber-kev-mode-<hash_value>.zip`.
+* download the latest version zip from the Latest Stuff section above.  It should be named `kev-mode-<version>.zip`.
 * place it in your mods directory within Starbound's local files (on my mac this is under `giraffe_storage/mods`
 * remove any older project folders
 * unzip the file in this directory

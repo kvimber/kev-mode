@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/kvimber/kev-mode.svg?branch=master)](https://travis-ci.org/kvimber/kev-mode)
+
 This is a simple Starbound mod in order to get you past the hump of having to collect your own resources.  Once you've spent months playing these games, it just feels unnecessary to have to do this, especially if it's because of an update.
 
 
